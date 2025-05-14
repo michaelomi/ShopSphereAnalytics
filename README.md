@@ -200,4 +200,3 @@ ShopSphere’s 2021 performance reflects robust growth (93.72% YoY revenue incre
 ## Appendix 📋
 - **Data Source** 📊: Link to Kaggle Dataset [here](https://www.kaggle.com/datasets/daichiuchigashima/thelook-ecommerce/data)
 - **Tools Used** 🛠️: SQL, Power BI, AI, Figma
-- 
