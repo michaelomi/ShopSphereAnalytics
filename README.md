@@ -5,8 +5,6 @@ This report analyzes the 2021 performance of ShopSphere, an e-commerce platform,
 
 Interact with the Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZGJjMGY3NDktZjIxOS00NzBjLWFjZjUtNjgwYzkzODc3N2FkIiwidCI6IjA1ODU3NTFmLTRiNDctNDUzOS04YmMzLWJmODNlMmVlMWQzZiJ9&pageName=e6d655bfd3aa13559542)
 
----
-
 ## Executive Summary 🚀
 In 2021, ShopSphere achieved significant growth in key metrics:
 - **Revenue** 💰: $1,450,111.71, a 93.72% year-over-year (YoY) increase.
@@ -15,8 +13,6 @@ In 2021, ShopSphere achieved significant growth in key metrics:
 - **Profit** 📈: $752,819.93, up 93.6% YoY, though the profit margin slightly declined by 0.07% to 51.91%.
 
 The business excelled in categories like Outerwear & Coats (28% revenue share) and Jeans (27%), with strong order volumes in locations like Memphis, TN, and Chicago, IL. Shipping performance showed an average of 1 day to ship and 3 days to deliver, though distribution center inefficiencies (e.g., Chicago IL with 51.51% late orders) and high returns in categories like Jumpsuits & Rompers (11.42%) indicate operational challenges. Recommendations focus on optimizing product offerings, improving fulfillment, diversifying traffic sources, and targeting high-potential customer segments.
-
----
 
 ## Data Analysis 🔍
 
@@ -138,7 +134,6 @@ ORDER BY percentage_of_late_orders DESC;
 
 **Insight** 💡: Shipping efficiency is strong (1 day to ship, 3 days to deliver on average), but Chicago IL’s high late order rate (51.51%) despite its 3-day average delivery time suggests inconsistent performance. High return rates in Jumpsuits & Rompers (11.42%) indicate quality or fit issues, while aging inventory in Intimates and Jeans points to overstocking or low demand.
 
----
 
 ## Key Insights 🧠
 1. **Financial Growth with Margin Concerns** 📉:
@@ -161,7 +156,6 @@ ORDER BY percentage_of_late_orders DESC;
    - Average shipping (1 day) and delivery (3 days) times are efficient, but Chicago IL’s 51.51% late order rate indicates operational inefficiencies.
    - Aging inventory in Intimates and Jeans suggests overstocking or misaligned demand forecasting.
 
----
 
 ## Recommendations 💡
 
@@ -200,13 +194,10 @@ ORDER BY percentage_of_late_orders DESC;
 - **Regional Focus** 📍: Boost marketing in Memphis, TN, and Chicago, IL, while addressing Chicago’s fulfillment issues. Research barriers in Philadelphia, PA.
 - **International Expansion** 🌎: Target China and Australia with localized offerings based on top customer data.
 
----
-
 ## Conclusion 🎯
 ShopSphere’s 2021 performance reflects robust growth (93.72% YoY revenue increase, 24,306 orders), but challenges like a declining profit margin, high return rates (e.g., Jumpsuits & Rompers at 11.42%), fulfillment delays (e.g., Chicago IL at 51.51%), and aging inventory (e.g., Intimates) require attention. By optimizing costs, targeting younger customers, diversifying traffic, enhancing fulfillment, and refining product offerings, ShopSphere can sustain growth and improve profitability in 2022 and beyond.
-
----
 
 ## Appendix 📋
 - **Data Source** 📊: Link to Kaggle Dataset [here](https://www.kaggle.com/datasets/daichiuchigashima/thelook-ecommerce/data)
 - **Tools Used** 🛠️: SQL, Power BI, AI, Figma
+- 
